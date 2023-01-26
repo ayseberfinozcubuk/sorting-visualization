@@ -1,7 +1,7 @@
 # Sorting
 
 ## Description
-- Simple sorting visualizttgji with java on terminal
+- Simple sorting visualization with java on terminal
 
 ## Sorting Types
 - Bubble Sort
